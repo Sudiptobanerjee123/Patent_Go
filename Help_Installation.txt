@@ -1,0 +1,25 @@
+###  Softwares to be installed:
+
+1. Python IDE(v3.7.5)
+2: PyCharm (add Python to its path using virtual env)
+3: Add Dependencies (Refer to Instructions file)
+4: Create a project using Python 3.7
+5: Keep a noisefree background to ensure that the Speech_recognition module works properly.
+6. Save mydata.txt, 200_w.gif and Source.gif in the same folder where Pycharm Project is installed.
+ (Local Disk C: USERS: user: PycharmProjects : Your Project) 
+
+
+
+###  Steps to Run the Code and see the output:
+
+1: Open the code/file Test_final.py in an IDE(PyCharm:preferred, Python v3.7.5) - ##Copy paste the code from Github link
+
+2: Run the Code by right clicking the File and Run Test_final.py ## For error in data refer to Python documnentation
+
+3: Stop the code after execution before terminating the window.
+
+For any doubts:
+
+Mail me at : sudiptobanerjee14@gmail.com
+
+
