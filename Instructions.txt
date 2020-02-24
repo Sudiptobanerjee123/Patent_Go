@@ -1,0 +1,26 @@
+Dependencies to be added
+
+Chatterbot #pip install chatterbot
+
+Chatterbot_corpus #pip install chatterbot_corpus
+
+pyttsx3 #pip install pyttsx3
+
+pyglet #pip install pyglet
+
+pyaudio #pip install pyaudio
+
+speech_recognition #pip install speech_recognition
+
+threading #pip install threading
+
+tkinter #pip install tkinter
+
+
+
+Python version used 3.7.5
+ 
+Image used for bot: https://giphy.com/gifs/beer-robot-jonasbodtker-1ZDDyAaAA82ywDiyKs ##reference
+
+Gif used for pyglet:https://media.giphy.com/media/7l1HfBYdS1ryw/source.gif ##reference
+
